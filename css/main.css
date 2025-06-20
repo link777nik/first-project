@@ -1,0 +1,12 @@
+/* fonts */
+@import './../fonts/bebasneue/bebasneue.css';
+@import './../fonts/roboto/roboto.css';
+
+/* base */
+@import './base/reset.css';
+@import './base/base.css';
+
+/* blocks */
+@import './blocks/header.css';
+@import './blocks/section.css';
+@import './blocks/card-trainer.css';
